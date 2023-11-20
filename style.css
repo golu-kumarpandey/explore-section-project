@@ -1,0 +1,48 @@
+.explore-section-bg-container {
+    background-color: #f5f7fa;
+    font-family: Roboto;
+}
+
+.explore-section-bg-heading {
+    color: #1f2933;
+    font-size: 33px;
+    font-weight: 700;
+}
+
+.card-bg-container {
+    background-color: white;
+    border-radius: 10px;
+}
+
+.card-heading {
+    color: #183b56;
+    font-size: 20px;
+    font-weight: 700;
+}
+
+.electronics-image {
+    width: 100%;
+    border-radius: 20px;
+}
+
+.electronics-image-description {
+    color: #183b56;
+    font-size: 13px;
+    margin-top: 15px;
+    font-weight: 700;
+}
+
+.anchor-style {
+    color: #ff9f00;
+    font-size: 15px;
+    font-weight: 700;
+}
+
+.tv-image {
+    width: 100%;
+    border-radius: 15px;
+}
+
+.accessories-image {
+    width: 100%;
+}
